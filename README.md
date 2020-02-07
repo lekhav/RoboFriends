@@ -2,9 +2,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## To run the project: 
 <br />
-Clone this repo <br />
-Run npm install <br />
-Run npm start <br />
+1. Clone this repo <br />
+2. Run npm install <br />
+3. Run npm start <br />
 
 ## Available Scripts
 
